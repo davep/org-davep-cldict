@@ -2,7 +2,6 @@
 ;;
 ;; cldict.lisp --- Main code for org-davep-cldict.
 ;; Copyright 2004 by Dave Pearson <davep@davep.org>
-;; $Revision: 1.10 $
 ;;
 ;; This software is Copyright (C) Dave Pearson <davep@davep.org> 2004
 ;;
