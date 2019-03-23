@@ -16,9 +16,9 @@
 ;;
 ;; You can always find the latest version of this code at:
 ;;
-;;   <URL:http://www.davep.org/lisp/#org-davep-cldict>
+;;   <URL:https://github.com/davep/org-davep-cldict>
 ;;
-;; This code uses <URL:http://www.davep.org/lisp/#org-dave-dict>.
+;; This code uses <URL:https://github.com/davep/org-davep-dict>.
 
 (defpackage #:org-davep-cldict-system
   (:use #:common-lisp #:asdf))

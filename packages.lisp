@@ -11,15 +11,14 @@
 
 ;;; Commentary:
 ;;
-;; org-davep-cldict is a command line based RFC 2229 client for Common Lisp
-;; and CLIM. See <URL:http://www.dict.org/> for more details about
-;; org-davep-dictd.
+;; cldict is a command line based RFC 2229 client for Common Lisp and CLIM.
+;; See <URL:http://www.dict.org/> for more details about dictd.
 ;;
 ;; You can always find the latest version of this code at:
 ;;
-;;   <URL:http://www.davep.org/lisp/#org-davep-cldict>
+;;   <URL:https://github.com/davep/org-davep-cldict>
 ;;
-;; This code uses <URL:http://www.davep.org/lisp/#org-dave-dict>.
+;; This code uses <URL:https://github.com/davep/org-davep-dict>.
 
 ;; Create the cldict package.
 (defpackage #:org.davep.cldict
